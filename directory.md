@@ -87,7 +87,7 @@ Knight | Sophia | Uppsala University | Postdoc | http://www.lix.polytechnique.fr
 Kouri Kissel | Teresa | Old Dominion University (USA) | Assistant Professor | https://sites.google.com/site/teresakouri/home | Philosophy of Logic, Philosophy of Language, logical pluralism, mathematical structuralism
 Lange | Karen | Wellesley College (USA) | Associate Professor | https://www.wellesley.edu/math/faculty/karen_lange | Computability Theory
 Lapenta | Serafina (Sara) | University of Salerno | Researcher | https://serafinalapenta.weebly.com/ | Algebraic aspects of many-valued logic, Logic and probability
-Latour | Anna | National University of Singapore | Research Fellow | latower.github.io | Boolean Satisfiability, Propositional Model Counting, Formal Methods, (Weighted) MaxSAT, Stochastic SAT
+Latour | Anna | National University of Singapore | Research Fellow | https://latower.github.io | Boolean Satisfiability, Propositional Model Counting, Formal Methods, (Weighted) MaxSAT, Stochastic SAT
 Legg | Catherine | Deakin University | Senior Lecturer | https://www.deakin.edu.au/about-deakin/people/cathy-legg | Logic, American pragmatism, formal ontology, Peirce, Diagrammatic logic,
 Lehan | Vanessa | York University (Canada) | Lecturer | |  | Philosophy of Logic, Methodology in Logic
 Lehtinen | Karoliina | CNRS, Aix-Marseille Uni | Researcher | http://www.pageperso.lif.univ-mrs.fr/~karoliina.lehtinen/ | Modal and temporal logic, modal mu-calculus, automata, games, verification, synthesis
